@@ -3,6 +3,8 @@ Flyher.Road
 
 This is System.Road 's new name!
 
+这是我在早期学习C#中的积累，当然，现在偶尔也会更新，大部分均为爬虫程序打造，灵感来源于 [Simplecdspider](https://github.com/flyher/SimplecdSpider)项目，该类库是这个爬虫程序的实验性拓展，由此衍生更多的爬虫程序。
+
 * 数据库操作：兼容SQL(demo),Oracle(demo),Sqlite,Mysql(部分由helper代码改写);
 * 文件操作：System.IO中关于文件操作的实现(部分demo);
 * 报表：
